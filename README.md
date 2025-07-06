@@ -1,4 +1,4 @@
-# Cloud-based SOC Lab with Microsoft Azure and Sentinel
+# Cloud-based SOC Lab with Microsoft Azure and Sentinel. 
 
 ## :abc:<mark style="background-color:blue;">Step-1 : Creating Azure Infrastructure</mark>&#x20;
 
